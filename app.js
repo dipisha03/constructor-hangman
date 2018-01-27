@@ -18,7 +18,7 @@ var chances = 6;
 var wrongGuesses = [];
 
 // hangman image
-request('https://raw.githubusercontent.com/Afellman/constructor_hangman/master/hangman.txt', function(err, response, body) {
+request('https://github.com/dipisha03/constructor-hangman/blob/master/hangman.txt', function(err, response, body) {
   console.log(body)
   gameStart()
 });
