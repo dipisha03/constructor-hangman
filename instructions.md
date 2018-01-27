@@ -9,7 +9,7 @@ In this week's assignment, you will create a hangman command-line game using con
 The completed game should meet the following criteria:
 
 
-1. The completed game should be able to receive user input using the `inquirer` or `prompt` npm packages. --DONE
+1. The completed game should be able to receive user input using the `inquirer` or `prompt` npm packages. 
 
 2. Feel free to use as many different types of constructor functions as you are able to, but at a minimum, you must create the following constructor functions:
 
@@ -27,7 +27,7 @@ The completed game should meet the following criteria:
 
 * Since this assignment is a command-line application, you don't need to deploy it anywhere. You will, however, be required to upload it to Github. 
 
-* Remember to include a `package.json` file containing your project dependencies in your Github repo! -- DONE 
+* Remember to include a `package.json` file containing your project dependencies in your Github repo! 
 
 ### Minimum Requirements
 
